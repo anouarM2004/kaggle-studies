@@ -29,7 +29,6 @@
 ## Additional Goals
 - Work on **at least three real-world projects**.
 - Contribute to an **open-source data science project**.
-- Publish insights or projects on **GitHub or a personal blog**.
 - Participate in **data science competitions** in Kaggle.
 
 ---
